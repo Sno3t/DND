@@ -1,6 +1,7 @@
 <!doctype html>
 <html>
 <head>
+<!--   <link rel="stylesheet" href="../css/styleSheet.css">-->
 
 </head>
 <body>
@@ -8,11 +9,10 @@
 
 <p>Something something</p>
 
+<?php
 
-<div class="environment">
-    <p>Page rendered in {elapsed_time} seconds</p>
-</div>
-
+ APPPATH .'Views/css/styleSheet.css';
+?>
 </body>
 
 </html>

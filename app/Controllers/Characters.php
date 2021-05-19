@@ -1,12 +1,14 @@
 <?php
 
 namespace App\Controllers;
-use CodeIgniter\Controller;
-class Characters extends BaseController {
-    public function details($id) {
-        $data['id'] = $id;
+
+class Characters extends BaseController{
+    public function index($arg = ''){
+        $data['person'] = [$arg];
+
         echo view('templates/header.php');
         echo view('pages/Characters', $data);
         echo view('templates/footer.php');
     }
 }
+
