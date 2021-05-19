@@ -12,6 +12,7 @@ if($data == "Peter"){
     echo "a";
 }
 
+
 ?>
 
 </body>
