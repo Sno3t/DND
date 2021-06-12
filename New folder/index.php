@@ -38,9 +38,10 @@
         }
 
         a:hover, a:active, a:visited {
-            background-color: red;
+            /*background-color: red;*/
             color: white;
             text-decoration: none;
+            text-decoration: underline;
 
         }
 
