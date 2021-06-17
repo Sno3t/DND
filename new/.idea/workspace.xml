@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9860efe3-0510-4db1-9e15-0768afdcdb52" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1qRgSBAjQBaYjDLVKrT9Q3LkWoZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/login" />
+    <property name="settings.editor.selected.configurable" value="0d570cb2-96df-43cc-80da-7f777e6d0afe" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\xampp\htdocs\school\new\login" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9860efe3-0510-4db1-9e15-0768afdcdb52" name="Default Changelist" comment="" />
+      <created>1617047813451</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617047813451</updated>
+      <workItem from="1617047819989" duration="5555000" />
+      <workItem from="1617100630443" duration="980000" />
+      <workItem from="1617113245427" duration="2803000" />
+      <workItem from="1617132508560" duration="596000" />
+      <workItem from="1617223424553" duration="8475000" />
+      <workItem from="1617972304123" duration="4102000" />
+      <workItem from="1621844948398" duration="3189000" />
+      <workItem from="1621961288415" duration="5487000" />
+      <workItem from="1622014995012" duration="3635000" />
+      <workItem from="1622645591282" duration="3406000" />
+      <workItem from="1622708246357" duration="11000" />
+      <workItem from="1623236388648" duration="1210000" />
+      <workItem from="1623247898088" duration="6083000" />
+      <workItem from="1623307730798" duration="181000" />
+      <workItem from="1623307922115" duration="549000" />
+      <workItem from="1623308481452" duration="150000" />
+      <workItem from="1623308642198" duration="166000" />
+      <workItem from="1623308817488" duration="127000" />
+      <workItem from="1623308953454" duration="51000" />
+      <workItem from="1623309012638" duration="53000" />
+      <workItem from="1623309073905" duration="728000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="715" y="364" key="#Notifications" timestamp="1623308961397">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="715" y="364" key="#Notifications/0.0.1920.1080/-1680.26.1680.1050@0.0.1920.1080" timestamp="1623308961397" />
+    <state x="494" y="171" width="1248" height="718" key="#Plugins" timestamp="1623309065039">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1248" y="192" key="#Plugins/0.0.1920.1080/-1680.26.1680.1050@-1680.26.1680.1050" timestamp="1623307911854" />
+    <state x="494" y="171" width="1248" height="718" key="#Plugins/0.0.1920.1080/-1680.26.1680.1050@0.0.1920.1080" timestamp="1623309065039" />
+    <state x="453" y="425" key="#SQL_Dialects" timestamp="1617225046457">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="453" y="425" key="#SQL_Dialects/0.0.1920.1080/-1680.26.1680.1050@0.0.1920.1080" timestamp="1617225046457" />
+    <state x="856" y="339" key="FileChooserDialogImpl" timestamp="1623308880795">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="856" y="339" key="FileChooserDialogImpl/0.0.1920.1080/-1680.26.1680.1050@0.0.1920.1080" timestamp="1623308880795" />
+    <state x="-1422" y="57" width="1377" height="889" key="SettingsEditor" timestamp="1623309236839">
+      <screen x="-1680" y="26" width="1680" height="1050" />
+    </state>
+    <state x="-1417" y="204" key="SettingsEditor/0.0.1920.1080/-1680.26.1680.1050@-1680.26.1680.1050" timestamp="1623308163860" />
+    <state x="-1422" y="57" width="1377" height="889" key="SettingsEditor/0.0.1920.1080/-1680.26.1680.1050@0.0.1920.1080" timestamp="1623309236839" />
+    <state x="-1067" y="425" width="611" height="281" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1623307963360">
+      <screen x="-1680" y="26" width="1680" height="1050" />
+    </state>
+    <state x="-1067" y="425" width="611" height="281" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1920.1080/-1680.26.1680.1050@-1680.26.1680.1050" timestamp="1623307963360" />
+    <state x="-1009" y="210" width="768" height="698" key="search.everywhere.popup" timestamp="1623309230741">
+      <screen x="-1680" y="26" width="1680" height="1050" />
+    </state>
+    <state x="-1177" y="253" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080/-1680.26.1680.1050@-1680.26.1680.1050" timestamp="1623308177014" />
+    <state x="-1009" y="210" width="768" height="698" key="search.everywhere.popup/0.0.1920.1080/-1680.26.1680.1050@0.0.1920.1080" timestamp="1623309230741" />
+  </component>
+</project>
